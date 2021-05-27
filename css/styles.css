@@ -197,8 +197,8 @@ p{
   font-size: 13px;
   color: black;
   margin-top:0;
-  margin-left: 300px;
-  margin-right: 200px;
+  margin-left: auto;
+  margin-right: auto;
   text-align: left;
   width:50%;
 }
@@ -232,7 +232,8 @@ p{
 
 .education-content{
   text-align: left;
-  margin-left: 340px;
+  margin-left: auto;
+  margin-right:auto;
   width: 50%;
 }
 
@@ -295,7 +296,7 @@ p{
 .footer-link{
   float:right;
   text-decoration: none;
-  margin: 35px;
+  margin: 35px 35px 20px 35px;
   font-size: 15px;
   font-family: 'Merriweather Sans', sans-serif;
 }
