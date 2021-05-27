@@ -47,12 +47,6 @@ In that case use auto to center elements
   background-color: #98ddca;
 }
 
-.top-cloud {
-  position: absolute;
-  top: 200px;
-  right: 200px;
-}
-
 body {
   margin: 0;
   color: #28b5b5;
@@ -93,12 +87,6 @@ h3 {
   font-size: 20px;
   color:#45526c;
   font-family: 'Montserrat', sans-serif;
-}
-
-.bottom-cloud {
-  position: absolute;
-  left: 200px;
-  bottom: 200px;
 }
 
 .mountain{
@@ -208,8 +196,9 @@ p{
 }
 
 .about-images{
-  height: 400px;
-  width:650px;
+  text-align: center;
+  height:300px;
+  width:50%;
 }
 
 .bottom-container{
@@ -292,6 +281,22 @@ p{
   margin-left: 100px;
   float:left;
 }
+
+.img1{
+  padding-top: 120px;
+}
+
+.img2{
+  padding-top: 20px;
+}
+.m1{
+  padding-top:20px;
+}
+
+.m2{
+  padding-top: 20px;
+}
+
 
 .footer-link{
   float:right;
